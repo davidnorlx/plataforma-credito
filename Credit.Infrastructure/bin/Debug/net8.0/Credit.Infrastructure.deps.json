@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Credit.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "4.0.21.7",
+          "AWSSDK.SimpleNotificationService": "4.0.3.8",
+          "Credit.Application": "1.0.0",
+          "Credit.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Credit.Infrastructure.dll": {}
+        }
+      },
+      "AWSSDK.Core/4.0.9.7": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.9.7"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/4.0.21.7": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.9.7"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.21.7"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/4.0.3.8": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.9.7"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.3.8"
+          }
+        }
+      },
+      "Credit.Application/1.0.0": {
+        "dependencies": {
+          "Credit.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Credit.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Credit.Domain/1.0.0": {
+        "runtime": {
+          "Credit.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Credit.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/4.0.9.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zCk+WKedXq45u92RcqWcZodzwvQryrqNpUWFdEPBm3ExuwDhY3BMF0VYMWiD/ko0ThhChqf9libgIpd/hQuBPQ==",
+      "path": "awssdk.core/4.0.9.7",
+      "hashPath": "awssdk.core.4.0.9.7.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/4.0.21.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-STFC5HAubqnmTfdaYn0k3AbXGSMa7IHD0fH76OOXq0ulLbc6rdgSmU8fF1SeXKkxJkWrD0OI2znz1/qsIBMOmQ==",
+      "path": "awssdk.dynamodbv2/4.0.21.7",
+      "hashPath": "awssdk.dynamodbv2.4.0.21.7.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/4.0.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-buJ5BK/ncvpXZwsL53422SUs7c9rTOo18CGsWbgBi8pF6KYiVNapgZBIIVrDQFGdVvAfmIhya9MuuSv4iwirgw==",
+      "path": "awssdk.simplenotificationservice/4.0.3.8",
+      "hashPath": "awssdk.simplenotificationservice.4.0.3.8.nupkg.sha512"
+    },
+    "Credit.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Credit.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\plataforma-credito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\controllers\\creditapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\controllers\\creditapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.infrastructure\\persistence\\dynamocreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|solutionrelative:credit.infrastructure\\persistence\\dynamocreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.infrastructure\\notifications\\snsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|solutionrelative:credit.infrastructure\\notifications\\snsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|solutionrelative:credit.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.infrastructure\\persistence\\creditapplicationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|solutionrelative:credit.infrastructure\\persistence\\creditapplicationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.infrastructure\\repositories\\inmemorycreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|solutionrelative:credit.infrastructure\\repositories\\inmemorycreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579E8163-030A-7F4B-1F37-23082B586EC1}|Credit.Domain\\Credit.Domain.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.domain\\entities\\creditapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579E8163-030A-7F4B-1F37-23082B586EC1}|Credit.Domain\\Credit.Domain.csproj|solutionrelative:credit.domain\\entities\\creditapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.application\\interfaces\\icreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|solutionrelative:credit.application\\interfaces\\icreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.infrastructure\\credit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1D34883-813E-3D7A-AAE7-1E3301849526}|Credit.Infrastructure\\Credit.Infrastructure.csproj|solutionrelative:credit.infrastructure\\credit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\contracts\\responses\\createcreditapplicationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\contracts\\responses\\createcreditapplicationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.application\\services\\creditdecisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|solutionrelative:credit.application\\services\\creditdecisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.application\\services\\creditscoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|solutionrelative:credit.application\\services\\creditscoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579E8163-030A-7F4B-1F37-23082B586EC1}|Credit.Domain\\Credit.Domain.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.domain\\constants\\creditstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579E8163-030A-7F4B-1F37-23082B586EC1}|Credit.Domain\\Credit.Domain.csproj|solutionrelative:credit.domain\\constants\\creditstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\lambdaentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\lambdaentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\serverless.template||{EC06DED3-700F-4CE3-9313-8E2324BA885D}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\serverless.template||{EC06DED3-700F-4CE3-9313-8E2324BA885D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\\uD83D\uDCC1 aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\\uD83D\uDCC1 aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.api\\contracts\\requests\\createcreditapplicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2E1661-F7BE-D325-E84F-6335FD827B9A}|Credit.Api\\Credit.Api.csproj|solutionrelative:credit.api\\contracts\\requests\\createcreditapplicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|c:\\users\\david\\source\\repos\\plataforma-credito\\credit.application\\credit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C1F0302-DFCA-4F0A-86C4-094C97C4081F}|Credit.Application\\Credit.Application.csproj|solutionrelative:credit.application\\credit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Credit.Application\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "Credit.Application\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T18:38:10.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreditApplicationItem.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Persistence\\CreditApplicationItem.cs",
+              "RelativeDocumentMoniker": "Credit.Infrastructure\\Persistence\\CreditApplicationItem.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Persistence\\CreditApplicationItem.cs",
+              "RelativeToolTip": "Credit.Infrastructure\\Persistence\\CreditApplicationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:49:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Credit.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Program.cs",
+              "RelativeToolTip": "Credit.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:44:21.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICreditRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Interfaces\\ICreditRepository.cs",
+              "RelativeDocumentMoniker": "Credit.Application\\Interfaces\\ICreditRepository.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Interfaces\\ICreditRepository.cs",
+              "RelativeToolTip": "Credit.Application\\Interfaces\\ICreditRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T22:33:36.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreditApplication.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Domain\\Entities\\CreditApplication.cs",
+              "RelativeDocumentMoniker": "Credit.Domain\\Entities\\CreditApplication.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Domain\\Entities\\CreditApplication.cs",
+              "RelativeToolTip": "Credit.Domain\\Entities\\CreditApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:29:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Controllers\\CreditApplicationsController.cs",
+              "RelativeDocumentMoniker": "Credit.Api\\Controllers\\CreditApplicationsController.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Controllers\\CreditApplicationsController.cs",
+              "RelativeToolTip": "Credit.Api\\Controllers\\CreditApplicationsController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:35:57.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamoCreditRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Persistence\\DynamoCreditRepository.cs",
+              "RelativeDocumentMoniker": "Credit.Infrastructure\\Persistence\\DynamoCreditRepository.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Persistence\\DynamoCreditRepository.cs",
+              "RelativeToolTip": "Credit.Infrastructure\\Persistence\\DynamoCreditRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T00:50:00.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnsNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Notifications\\SnsNotificationService.cs",
+              "RelativeDocumentMoniker": "Credit.Infrastructure\\Notifications\\SnsNotificationService.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Notifications\\SnsNotificationService.cs",
+              "RelativeToolTip": "Credit.Infrastructure\\Notifications\\SnsNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T18:39:29.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Credit.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Credit.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Credit.Infrastructure\\Credit.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Credit.Infrastructure.csproj",
+              "RelativeToolTip": "Credit.Infrastructure\\Credit.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T17:32:43.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryCreditRepository.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Repositories\\InMemoryCreditRepository.cs",
+              "RelativeDocumentMoniker": "Credit.Infrastructure\\Repositories\\InMemoryCreditRepository.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Infrastructure\\Repositories\\InMemoryCreditRepository.cs",
+              "RelativeToolTip": "Credit.Infrastructure\\Repositories\\InMemoryCreditRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:07:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Credit.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Startup.cs",
+              "RelativeToolTip": "Credit.Api\\Startup.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:47:38.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCreditApplicationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Contracts\\Responses\\CreateCreditApplicationResponse.cs",
+              "RelativeDocumentMoniker": "Credit.Api\\Contracts\\Responses\\CreateCreditApplicationResponse.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Contracts\\Responses\\CreateCreditApplicationResponse.cs",
+              "RelativeToolTip": "Credit.Api\\Contracts\\Responses\\CreateCreditApplicationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:38:38.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreditStatus.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Domain\\Constants\\CreditStatus.cs",
+              "RelativeDocumentMoniker": "Credit.Domain\\Constants\\CreditStatus.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Domain\\Constants\\CreditStatus.cs",
+              "RelativeToolTip": "Credit.Domain\\Constants\\CreditStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:34:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreditScoringService.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Services\\CreditScoringService.cs",
+              "RelativeDocumentMoniker": "Credit.Application\\Services\\CreditScoringService.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Services\\CreditScoringService.cs",
+              "RelativeToolTip": "Credit.Application\\Services\\CreditScoringService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:05:57.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreditDecisionService.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Services\\CreditDecisionService.cs",
+              "RelativeDocumentMoniker": "Credit.Application\\Services\\CreditDecisionService.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Services\\CreditDecisionService.cs",
+              "RelativeToolTip": "Credit.Application\\Services\\CreditDecisionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T21:06:20.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LambdaEntryPoint.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\LambdaEntryPoint.cs",
+              "RelativeDocumentMoniker": "Credit.Api\\LambdaEntryPoint.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\LambdaEntryPoint.cs",
+              "RelativeToolTip": "Credit.Api\\LambdaEntryPoint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:37:15.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "serverless.template",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\serverless.template",
+              "RelativeDocumentMoniker": "Credit.Api\\serverless.template",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\serverless.template",
+              "RelativeToolTip": "Credit.Api\\serverless.template",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-23T22:52:31.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "\uD83D\uDCC1 aws-lambda-tools-defaults.json",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\\uD83D\uDCC1 aws-lambda-tools-defaults.json",
+              "RelativeDocumentMoniker": "Credit.Api\\\uD83D\uDCC1 aws-lambda-tools-defaults.json",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\\uD83D\uDCC1 aws-lambda-tools-defaults.json",
+              "RelativeToolTip": "Credit.Api\\\uD83D\uDCC1 aws-lambda-tools-defaults.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T20:37:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Credit.Application",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Credit.Application.csproj",
+              "RelativeDocumentMoniker": "Credit.Application\\Credit.Application.csproj",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Application\\Credit.Application.csproj",
+              "RelativeToolTip": "Credit.Application\\Credit.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T23:38:42.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCreditApplicationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Contracts\\Requests\\CreateCreditApplicationRequest.cs",
+              "RelativeDocumentMoniker": "Credit.Api\\Contracts\\Requests\\CreateCreditApplicationRequest.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Contracts\\Requests\\CreateCreditApplicationRequest.cs",
+              "RelativeToolTip": "Credit.Api\\Contracts\\Requests\\CreateCreditApplicationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T20:37:40.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\bin\Debug\net8.0\Credit.Domain.deps.json
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\bin\Debug\net8.0\Credit.Domain.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\bin\Debug\net8.0\Credit.Domain.pdb
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\Credit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\Credit.Domain.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\Credit.Domain.AssemblyInfo.cs
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\Credit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\Credit.Domain.sourcelink.json
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\Credit.Domain.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\refint\Credit.Domain.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\Credit.Domain.pdb
+C:\Users\david\source\repos\plataforma-credito\Credit.Domain\obj\Debug\net8.0\ref\Credit.Domain.dll

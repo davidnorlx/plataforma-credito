@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzN659+/K0Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Credit.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.5.0\\amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\7.3.0\\amazon.lambda.aspnetcoreserver.7.3.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\awssdk.core\\4.0.9.7\\awssdk.core.4.0.9.7.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.21.7\\awssdk.dynamodbv2.4.0.21.7.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\awssdk.extensions.netcore.setup\\4.0.4.11\\awssdk.extensions.netcore.setup.4.0.4.11.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\awssdk.simplenotificationservice\\4.0.3.8\\awssdk.simplenotificationservice.4.0.3.8.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.1\\swashbuckle.aspnetcore.6.6.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.1\\swashbuckle.aspnetcore.swagger.6.6.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.1\\swashbuckle.aspnetcore.swaggergen.6.6.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.1\\swashbuckle.aspnetcore.swaggerui.6.6.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Credit.Api depende de Swashbuckle.AspNetCore (>= 6.5.5), pero no se encontró Swashbuckle.AspNetCore 6.5.5. Swashbuckle.AspNetCore 6.6.1 se resolvió en su lugar.",
+      "projectPath": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Credit.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Credit.Api.csproj",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

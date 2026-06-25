@@ -1,0 +1,27 @@
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Api
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\appsettings.json
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\📁 aws-lambda-tools-defaults.json
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Api.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Api.deps.json
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Api.runtimeconfig.json
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Api.pdb
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Application.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Domain.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Infrastructure.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Application.pdb
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Domain.pdb
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Release\net8.0\publish\Credit.Infrastructure.pdb
