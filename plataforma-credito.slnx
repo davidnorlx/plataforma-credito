@@ -1,6 +1,14 @@
 <Solution>
   <Project Path="Credit.Api/Credit.Api.csproj" />
   <Project Path="Credit.Application/Credit.Application.csproj" />
+  <Project Path="Credit.AuditLambda/Credit.AuditLambda.csproj" />
+  <Project Path="Credit.DecisionLambda/Credit.DecisionLambda.csproj" />
   <Project Path="Credit.Domain/Credit.Domain.csproj" />
+  <Project Path="Credit.GetApplicationsLambda/Credit.GetApplicationsLambda.csproj" />
   <Project Path="Credit.Infrastructure/Credit.Infrastructure.csproj" />
+  <Project Path="Credit.NotificationLambda/Credit.NotificationLambda.csproj" />
+  <Project Path="Credit.PublishEventLambda/Credit.PublishEventLambda.csproj" />
+  <Project Path="Credit.SaveLambda/Credit.SaveLambda.csproj" />
+  <Project Path="Credit.ScoreLambda/Credit.ScoreLambda.csproj" />
+  <Project Path="Credit.StartWorkflowLambda/Credit.StartWorkflowLambda.csproj" />
 </Solution>

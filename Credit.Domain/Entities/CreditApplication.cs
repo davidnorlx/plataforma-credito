@@ -34,6 +34,8 @@ public class CreditApplication
         Status = status;
     }
 
+
+
     public void UpdateStatus(string status)
     {
         Status = status;

@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\Credit.PublishEventLambda.deps.json
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\Credit.PublishEventLambda.runtimeconfig.json
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\Credit.PublishEventLambda.pdb
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\Amazon.Lambda.Core.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\AWSSDK.Core.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\AWSSDK.EventBridge.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.PublishEventLambda\bin\Release\net10.0\publish\Credit.PublishEventLambda.dll

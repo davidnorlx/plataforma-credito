@@ -1,0 +1,9 @@
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\Credit.StartWorkflowLambda.deps.json
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\Credit.StartWorkflowLambda.runtimeconfig.json
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\Credit.StartWorkflowLambda.pdb
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\Amazon.Lambda.Core.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\AWSSDK.Core.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\AWSSDK.StepFunctions.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.StartWorkflowLambda\bin\Release\net10.0\publish\Credit.StartWorkflowLambda.dll

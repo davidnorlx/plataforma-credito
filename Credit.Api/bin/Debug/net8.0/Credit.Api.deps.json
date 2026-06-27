@@ -102,7 +102,8 @@
       },
       "AWSSDK.Extensions.NETCore.Setup/4.0.4.11": {
         "dependencies": {
-          "AWSSDK.Core": "4.0.9.7"
+          "AWSSDK.Core": "4.0.9.7",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.9"
         },
         "runtime": {
           "lib/net8.0/AWSSDK.Extensions.NETCore.Setup.dll": {
@@ -119,6 +120,36 @@
           "lib/net8.0/AWSSDK.SimpleNotificationService.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.0.3.8"
+          }
+        }
+      },
+      "AWSSDK.StepFunctions/4.0.4.8": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.9.7"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.StepFunctions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.4.8"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/10.0.9": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.9"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.9": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
           }
         }
       },
@@ -189,9 +220,13 @@
       "Credit.Infrastructure/1.0.0": {
         "dependencies": {
           "AWSSDK.DynamoDBv2": "4.0.21.7",
+          "AWSSDK.Extensions.NETCore.Setup": "4.0.4.11",
           "AWSSDK.SimpleNotificationService": "4.0.3.8",
+          "AWSSDK.StepFunctions": "4.0.4.8",
           "Credit.Application": "1.0.0",
-          "Credit.Domain": "1.0.0"
+          "Credit.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "10.0.9",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.9"
         },
         "runtime": {
           "Credit.Infrastructure.dll": {
@@ -277,6 +312,27 @@
       "sha512": "sha512-buJ5BK/ncvpXZwsL53422SUs7c9rTOo18CGsWbgBi8pF6KYiVNapgZBIIVrDQFGdVvAfmIhya9MuuSv4iwirgw==",
       "path": "awssdk.simplenotificationservice/4.0.3.8",
       "hashPath": "awssdk.simplenotificationservice.4.0.3.8.nupkg.sha512"
+    },
+    "AWSSDK.StepFunctions/4.0.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G+dtZIA8kRHROCrVs4S4qlJKySQ3eeSfXyP0/NwY/jW7WRjiGuOIukLNx2J4AGpwkuqcSoW7UQW+t60yaD4M4Q==",
+      "path": "awssdk.stepfunctions/4.0.4.8",
+      "hashPath": "awssdk.stepfunctions.4.0.4.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/10.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NijozhERJDIaJ4k5TSMy1jOi0cSC2HfkvRD/Sl+kGSSKgVbFnF4GxgtMN/MrzHB8D1JxIrD4xSer9Blh9v3axQ==",
+      "path": "microsoft.extensions.dependencyinjection/10.0.9",
+      "hashPath": "microsoft.extensions.dependencyinjection.10.0.9.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g41l/30G3K4B/d/L8kjux0+30e27c8D0FVQ/PFCpbekgfDpj9mnDhieP67EqXWvl1EWNeZh2rpR4F5B/jcDOHA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.9",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512"
     },
     "Microsoft.OpenApi/1.6.14": {
       "type": "package",

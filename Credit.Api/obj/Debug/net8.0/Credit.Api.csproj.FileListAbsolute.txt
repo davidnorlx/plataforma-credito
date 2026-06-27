@@ -50,5 +50,7 @@ C:\Users\david\source\repos\plataforma-credito\Credit.Api\obj\Debug\net8.0\refin
 C:\Users\david\source\repos\plataforma-credito\Credit.Api\obj\Debug\net8.0\Credit.Api.pdb
 C:\Users\david\source\repos\plataforma-credito\Credit.Api\obj\Debug\net8.0\Credit.Api.genruntimeconfig.cache
 C:\Users\david\source\repos\plataforma-credito\Credit.Api\obj\Debug\net8.0\ref\Credit.Api.dll
-C:\Users\david\source\repos\plataforma-credito\Credit.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Debug\net8.0\AWSSDK.SimpleNotificationService.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Debug\net8.0\AWSSDK.StepFunctions.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\source\repos\plataforma-credito\Credit.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

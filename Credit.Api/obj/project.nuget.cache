@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MzN659+/K0Q=",
+  "dgSpecHash": "vrrB9XedZa0=",
   "success": true,
   "projectFilePath": "C:\\Users\\david\\source\\repos\\plataforma-credito\\Credit.Api\\Credit.Api.csproj",
   "expectedPackageFiles": [
@@ -14,11 +14,13 @@
     "C:\\Users\\david\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.21.7\\awssdk.dynamodbv2.4.0.21.7.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\awssdk.extensions.netcore.setup\\4.0.4.11\\awssdk.extensions.netcore.setup.4.0.4.11.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\awssdk.simplenotificationservice\\4.0.3.8\\awssdk.simplenotificationservice.4.0.3.8.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\awssdk.stepfunctions\\4.0.4.8\\awssdk.stepfunctions.4.0.4.8.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
-    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.9\\microsoft.extensions.dependencyinjection.10.0.9.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",

@@ -5,29 +5,6 @@
     "version": "1.0"
   },
   "paths": {
-    "/credit-applications/{id}": {
-      "get": {
-        "tags": [
-          "CreditApplications"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string",
-              "format": "uuid"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/credit-applications": {
       "post": {
         "tags": [
