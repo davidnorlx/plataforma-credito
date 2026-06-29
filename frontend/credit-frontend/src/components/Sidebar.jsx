@@ -4,7 +4,8 @@ import {
   FiFileText,
   FiUsers,
   FiActivity,
-  FiGitBranch
+  FiGitBranch,
+  FiUserCheck
 } from 'react-icons/fi'
 
 export default function Sidebar() {
@@ -32,6 +33,10 @@ export default function Sidebar() {
         <NavLink to="/architecture">
           <FiGitBranch /> Arquitectura
         </NavLink>
+
+        <NavLink to="/about">
+  <FiUserCheck /> About
+</NavLink>
       </nav>
     </aside>
   )

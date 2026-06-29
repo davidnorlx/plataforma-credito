@@ -1,22 +1,29 @@
-import { useEffect, useState } from 'react'
-import { FiFileText, FiCheckCircle, FiXCircle, FiClock } from 'react-icons/fi'
-import StatCard from '../../components/StatCard'
-import CreditStatusChart from '../../components/CreditStatusChart'
-import { getCreditApplications } from '../../api/creditApi'
+import { useEffect, useState } from "react"
+import { useAuth } from "react-oidc-context"
+import { FiFileText, FiCheckCircle, FiXCircle, FiClock } from "react-icons/fi"
+
+import StatCard from "../../components/StatCard"
+import CreditStatusChart from "../../components/CreditStatusChart"
+import { getCreditApplications } from "../../api/creditApi"
 
 export default function Dashboard() {
+  const auth = useAuth()
+  const token = auth.user?.id_token || auth.user?.access_token
+
   const [applications, setApplications] = useState([])
 
   useEffect(() => {
-    getCreditApplications()
+    if (!token) return
+
+    getCreditApplications(token)
       .then(setApplications)
       .catch(console.error)
-  }, [])
+  }, [token])
 
   const total = applications.length
-  const approved = applications.filter(x => x.Status === 'APPROVED').length
-  const rejected = applications.filter(x => x.Status === 'REJECTED').length
-  const manual = applications.filter(x => x.Status === 'MANUAL_REVIEW').length
+  const approved = applications.filter(x => x.Status === "APPROVED").length
+  const rejected = applications.filter(x => x.Status === "REJECTED").length
+  const manual = applications.filter(x => x.Status === "MANUAL_REVIEW").length
 
   return (
     <>
@@ -52,6 +59,7 @@ export default function Dashboard() {
                 <th>Estado</th>
               </tr>
             </thead>
+
             <tbody>
               {applications.slice(0, 6).map(app => (
                 <tr key={app.ApplicationId}>
@@ -69,27 +77,21 @@ export default function Dashboard() {
           </table>
         </div>
       </section>
-
-      <section className="panel mt-4">
-        <h3>Arquitectura AWS</h3>
-        <div className="architecture-box">
-          React → API Gateway → Lambda → Step Functions → DynamoDB / EventBridge → Audit Lambda
-        </div>
-      </section>
+     
     </>
   )
 }
 
 function getBadgeClass(status) {
-  if (status === 'APPROVED') return 'approved'
-  if (status === 'REJECTED') return 'rejected'
-  return 'manual'
+  if (status === "APPROVED") return "approved"
+  if (status === "REJECTED") return "rejected"
+  return "manual"
 }
 
 function formatMoney(value) {
-  return new Intl.NumberFormat('es-CO', {
-    style: 'currency',
-    currency: 'COP',
+  return new Intl.NumberFormat("es-CO", {
+    style: "currency",
+    currency: "COP",
     maximumFractionDigits: 0
   }).format(value || 0)
 }

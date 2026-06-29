@@ -5,6 +5,7 @@ import ApplicationsTable from "../../components/applications/ApplicationsTable"
 import ApplicationModal from "../../components/applications/ApplicationModal"
 import Toast from "../../components/Toast"
 import { useApplications } from "../../hooks/useApplications"
+import { useAuth } from "react-oidc-context";
 
 export default function Applications() {
   const {
@@ -16,6 +17,7 @@ export default function Applications() {
   const [search, setSearch] = useState("")
   const [selected, setSelected] = useState(null)
   const [toast, setToast] = useState(null)
+  const [statusFilter, setStatusFilter] = useState("ALL")
 
   async function handleCreate(payload) {
     try {
@@ -42,8 +44,10 @@ export default function Applications() {
         applications={applications}
         search={search}
         setSearch={setSearch}
+        statusFilter={statusFilter}
+        setStatusFilter={setStatusFilter}
         onSelect={setSelected}
-      />
+        />
 
       <ApplicationModal
         application={selected}

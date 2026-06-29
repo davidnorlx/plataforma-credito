@@ -1,0 +1,11 @@
+El siguiente será 00-Governance/Architecture-Repository.md.
+
+Ese documento definirá oficialmente cómo está organizado el repositorio de arquitectura, siguiendo la estructura propuesta por TOGAF. A partir de ahí construiremos todo el resto del repositorio sobre una base consistente.
+
+Continuaremos con 00-Governance/Architecture-Principles.md.
+
+Este será uno de los documentos más importantes de todo el repositorio, porque cada decisión que tomemos en las siguientes fases deberá estar justificada por uno o varios principios de arquitectura. En proyectos reales, este documento actúa como la "constitución" de la arquitectura.
+
+Siguiente documento: 00-Governance/Architecture-Standards.md. Aquí definiremos los estándares oficiales que deberá cumplir la solución (nomenclatura, APIs, seguridad, observabilidad, desarrollo, infraestructura, documentación y gobierno). Ese documento será el "manual de normas" del proyecto.
+
+El siguiente documento será 01-Preliminary/Preliminary-Phase.md, donde ya empezaremos formalmente la Fase Preliminar de TOGAF, reutilizando y refinando el contenido que ya habíamos trabajado, ahora alineado con la estructura definitiva del repositorio.

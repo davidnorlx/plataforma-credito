@@ -17,11 +17,21 @@ body {
 
 .sidebar {
   width: 240px;
-  min-height: 100vh;
+  height: 100vh;
   background: #2d3446;
   color: #ffffff;
   padding: 24px;
   flex-shrink: 0;
+  position: sticky;
+  top: 0;
+  overflow-y: auto;
+}
+
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-bottom: 60px;
 }
 
 .sidebar h2 {
@@ -738,4 +748,376 @@ body {
     flex-direction: column;
     align-items: center;
   }
+}
+
+.about-hero {
+  background: linear-gradient(135deg, #2d3446, #556ee6);
+  color: white;
+  border-radius: 22px;
+  padding: 38px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  box-shadow: 0 14px 35px rgba(0,0,0,.12);
+}
+
+.about-label {
+  display: inline-block;
+  background: rgba(255,255,255,.16);
+  padding: 8px 12px;
+  border-radius: 30px;
+  margin-bottom: 14px;
+  font-weight: 600;
+}
+
+.about-hero h1 {
+  font-size: 44px;
+  margin: 0 0 12px;
+}
+
+.about-hero p {
+  max-width: 720px;
+  opacity: .92;
+  font-size: 17px;
+}
+
+.about-avatar {
+  width: 120px;
+  height: 120px;
+  background: white;
+  color: #556ee6;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 38px;
+  font-weight: 800;
+}
+
+.about-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.secondary-button {
+  border: none;
+  border-radius: 12px;
+  padding: 12px 18px;
+  background: rgba(255,255,255,.16);
+  color: white;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.about-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-bottom: 24px;
+}
+
+.about-stat {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 10px 28px rgba(0,0,0,.06);
+}
+
+.about-stat h3 {
+  color: #556ee6;
+  font-size: 34px;
+  margin: 0;
+}
+
+.about-stat p {
+  margin: 8px 0 0;
+  color: #74788d;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.panel h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tech-tags span {
+  background: #eef1ff;
+  color: #556ee6;
+  padding: 8px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.about-list {
+  margin: 0;
+  padding-left: 18px;
+  color: #495057;
+}
+
+@media (max-width: 900px) {
+  .about-hero {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+  }
+
+  .about-stats,
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sidebar {
+  overflow-y: auto;
+}
+
+.sidebar nav {
+  padding-bottom: 40px;
+}
+
+.architecture-legend {
+  display: flex;
+  gap: 18px;
+  margin-bottom: 20px;
+  color: #74788d;
+  font-weight: 600;
+}
+
+.legend-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.legend-dot.current {
+  background: #556ee6;
+}
+
+.legend-dot.future {
+  background: #f1b44c;
+}
+
+.aws-node.current {
+  border-color: #dce2f2;
+}
+
+.aws-node.future {
+  border-style: dashed;
+  background: #fffaf0;
+  border-color: #f1b44c;
+  color: #9a6b00;
+}
+
+.aws-node.future.active {
+  background: #fff4de;
+  border-color: #f1b44c;
+  color: #9a6b00;
+  box-shadow: 0 14px 32px rgba(241, 180, 76, .24);
+}
+
+.table-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.status-filter {
+  height: 44px;
+  border: 1px solid #dfe3ee;
+  border-radius: 12px;
+  padding: 0 12px;
+  background: #f8f9fc;
+  color: #495057;
+  outline: none;
+}
+
+.application-detail-modal {
+  width: 760px;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.modal-header-custom p {
+  margin: 6px 0 0;
+  color: #74788d;
+  font-size: 13px;
+  word-break: break-all;
+}
+
+.detail-summary {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin: 24px 0;
+}
+
+.detail-summary div {
+  background: #f8f9fc;
+  border-radius: 14px;
+  padding: 18px;
+}
+
+.detail-summary span {
+  display: block;
+  color: #74788d;
+  margin-bottom: 8px;
+}
+
+.detail-summary strong {
+  font-size: 20px;
+}
+
+.risk.low {
+  color: #34c38f;
+}
+
+.risk.medium {
+  color: #f1b44c;
+}
+
+.risk.high {
+  color: #f46a6a;
+}
+
+.process-timeline {
+  margin: 18px 0 28px;
+  display: grid;
+  gap: 12px;
+}
+
+.timeline-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #f8f9fc;
+  padding: 13px 15px;
+  border-radius: 12px;
+}
+
+.timeline-icon {
+  width: 34px;
+  height: 34px;
+  background: #eef1ff;
+  color: #556ee6;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+}
+
+.service-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 28px;
+}
+
+.service-tags span {
+  background: #eef1ff;
+  color: #556ee6;
+  padding: 8px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.login-page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, #2d3446, #556ee6);
+}
+
+.login-card {
+  width: 430px;
+  background: white;
+  border-radius: 22px;
+  padding: 38px;
+  text-align: center;
+  box-shadow: 0 20px 45px rgba(0,0,0,.22);
+}
+
+.login-card h1 {
+  color: #2f3542;
+  margin-bottom: 10px;
+}
+
+.login-card p {
+  color: #74788d;
+  margin-bottom: 28px;
+}
+
+.topbar-right{
+    display:flex;
+    align-items:center;
+    gap:18px;
+}
+
+.notification-button{
+    width:42px;
+    height:42px;
+    border:none;
+    border-radius:12px;
+    background:#f5f7fb;
+    cursor:pointer;
+    font-size:18px;
+}
+
+.user-info{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+}
+
+.user-info strong{
+    font-size:14px;
+}
+
+.user-info span{
+    color:#7b8190;
+    font-size:12px;
+}
+
+.logout-button{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    background:#556ee6;
+    color:white;
+    border:none;
+    border-radius:12px;
+    padding:10px 18px;
+    cursor:pointer;
+    font-weight:600;
+}
+
+.login-card button{
+    display:block;
+    margin:30px auto 0;
+}
+
+.login-card .primary-button{
+    display:block;
+    margin:30px auto 0;
+}
+
+.primary-button{
+    min-width:260px;
 }
