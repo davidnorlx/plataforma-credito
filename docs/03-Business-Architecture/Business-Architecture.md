@@ -153,47 +153,46 @@ La organización evolucionará hacia un proceso completamente digital caracteriz
 
 # 8. Capacidades del Negocio
 
-## Gestión Comercial
 
-* Captación de clientes.
-* Gestión de solicitudes.
+## Business Capability Map
 
-## Gestión de Clientes
+El siguiente diagrama representa las capacidades de negocio que soportan la Plataforma de Solicitud y Aprobación de Créditos. Estas capacidades constituyen la base para el diseño de los procesos, la arquitectura de datos, las aplicaciones y la arquitectura tecnológica.
 
-* Registro.
-* Consulta.
-* Actualización.
+![Business Capability Map](Diagrams/capability-map.png)
 
-## Gestión de Créditos
-
-* Crear solicitud.
-* Validar información.
-* Calcular score.
-* Evaluar.
-* Aprobar.
-* Rechazar.
-* Consultar estado.
-
-## Gestión Operativa
-
-* Auditoría.
-* Reportes.
-* Monitoreo.
+| Atributo | Valor |
+|-----------|-------|
+| Tipo | Business Capability Map |
+| Fase TOGAF | Phase B - Business Architecture |
+| Objetivo | Representar las capacidades de negocio necesarias para soportar la solución. |
 
 ---
 
 # 9. Procesos de Negocio
 
-## Proceso Principal
+## Credit Approval Value Stream
 
-1. Registrar solicitud.
-2. Validar información.
-3. Calcular score.
-4. Evaluar solicitud.
-5. Tomar decisión.
-6. Registrar resultado.
-7. Notificar cliente.
-8. Consultar estado.
+El siguiente Value Stream representa la secuencia de actividades que generan valor para el cliente desde el momento en que solicita un crédito hasta que recibe la decisión final.
+
+![Credit Approval Value Stream](Diagrams/value-stream.png)
+
+| Atributo | Valor |
+|-----------|-------|
+| Tipo | Value Stream |
+| Fase TOGAF | Phase B - Business Architecture |
+| Objetivo | Representar cómo se genera valor para el cliente durante el proceso de aprobación de créditos. |
+
+## Credit Approval Process (BPMN)
+
+El siguiente diagrama modela el proceso de negocio de originación y aprobación de créditos utilizando la notación BPMN 2.0. Describe el flujo operativo desde la recepción de una solicitud hasta la notificación del resultado al cliente.
+
+![Credit Approval Process](BPMN/credit-approval-process.png)
+
+| Atributo | Valor |
+|-----------|-------|
+| Tipo | BPMN 2.0 Process Diagram |
+| Fase TOGAF | Phase B - Business Architecture |
+| Objetivo | Modelar el proceso operativo de aprobación de créditos. |
 
 ---
 

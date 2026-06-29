@@ -159,19 +159,20 @@ No forman parte de esta iniciativa:
 
 # 10. Stakeholders
 
-| Stakeholder             | Interés                            |
-| ----------------------- | ---------------------------------- |
-| Dirección de Tecnología | Modernización tecnológica          |
-| Área Comercial          | Incrementar colocación de créditos |
-| Área de Riesgos         | Evaluaciones confiables            |
-| Arquitectura            | Solución alineada con estándares   |
-| Desarrollo              | Implementación                     |
-| Operaciones             | Disponibilidad                     |
-| Seguridad               | Protección de la información       |
-| Auditoría               | Trazabilidad                       |
-| Cliente                 | Mejor experiencia digital          |
+## Stakeholder Catalog
 
----
+| Stakeholder | Rol | Interés | Responsabilidad |
+|--------------|----------------------------|----------------------------------------|----------------------------------------------|
+| Dirección de Tecnología | Sponsor | Modernización tecnológica | Aprobar la iniciativa y definir prioridades. |
+| Arquitecto Empresarial | Gobierno de Arquitectura | Alineación con TOGAF | Definir principios y gobierno. |
+| Arquitecto de Solución | Diseño de la solución | Arquitectura técnica | Diseñar la solución end-to-end. |
+| Área Comercial | Usuario del negocio | Incrementar la colocación de créditos | Definir requerimientos funcionales. |
+| Área de Riesgos | Usuario del negocio | Evaluación confiable | Definir reglas de evaluación. |
+| Desarrollo | Implementador | Construcción de la solución | Desarrollar los componentes. |
+| Operaciones | Soporte | Disponibilidad | Operar y monitorear la plataforma. |
+| Seguridad | Gobierno | Protección de la información | Definir controles de seguridad. |
+| Auditoría | Cumplimiento | Trazabilidad | Verificar cumplimiento normativo. |
+| Cliente | Usuario final | Experiencia digital | Solicitar y consultar créditos. |
 
 # 11. Beneficios Esperados
 

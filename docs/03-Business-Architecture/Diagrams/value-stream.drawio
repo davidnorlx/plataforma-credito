@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="NwDOCNXCqhOj58ZDv_pq">
+    <mxGraphModel dx="1412" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xOkkyY8illsi0dR0QTcP-4" edge="1" parent="1" source="xOkkyY8illsi0dR0QTcP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xOkkyY8illsi0dR0QTcP-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Necesidad Solicitar Credito" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-6" edge="1" parent="1" source="xOkkyY8illsi0dR0QTcP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xOkkyY8illsi0dR0QTcP-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Registrar Solicitud" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-8" edge="1" parent="1" source="xOkkyY8illsi0dR0QTcP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xOkkyY8illsi0dR0QTcP-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Validar Informacion" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-11" edge="1" parent="1" source="xOkkyY8illsi0dR0QTcP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xOkkyY8illsi0dR0QTcP-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Calcular Score" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-13" edge="1" parent="1" source="xOkkyY8illsi0dR0QTcP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xOkkyY8illsi0dR0QTcP-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Evaluar Solicitud" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-15" edge="1" parent="1" source="xOkkyY8illsi0dR0QTcP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xOkkyY8illsi0dR0QTcP-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Tomar Decision" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-17" edge="1" parent="1" source="xOkkyY8illsi0dR0QTcP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xOkkyY8illsi0dR0QTcP-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Notificar Cliente" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Respuesta del Credito" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="xOkkyY8illsi0dR0QTcP-18" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;align=center;" value="Flujo de valor de la aprobación de crédito" vertex="1">
+          <mxGeometry height="40" width="240" x="300" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

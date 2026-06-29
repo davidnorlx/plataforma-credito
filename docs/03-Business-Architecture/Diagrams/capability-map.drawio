@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="LceUxhWpberIF7hiUg2J">
+    <mxGraphModel dx="1412" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-27" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MyftFgST3W6Lhs-IXvAv-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="160" />
+              <mxPoint x="189" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-28" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MyftFgST3W6Lhs-IXvAv-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="160" />
+              <mxPoint x="339" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-29" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MyftFgST3W6Lhs-IXvAv-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="160" />
+              <mxPoint x="489" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="160" />
+              <mxPoint x="649" y="160" />
+            </Array>
+            <mxPoint x="413" y="120" as="sourcePoint" />
+            <mxPoint x="649" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NEGOCIO" vertex="1">
+          <mxGeometry height="60" width="120" x="353" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-19" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestión Comercial" vertex="1">
+          <mxGeometry height="60" width="120" x="129" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-21" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestión Clientes" vertex="1">
+          <mxGeometry height="60" width="120" x="279" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-23" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestión Créditos " vertex="1">
+          <mxGeometry height="60" width="120" x="429" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-25" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="639" y="340" />
+            </Array>
+            <mxPoint x="639" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gestión Operativa   " vertex="1">
+          <mxGeometry height="60" width="120" x="579" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Mapa de Capacidades del Negocio" vertex="1">
+          <mxGeometry height="30" width="226" x="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Captar Cliente" vertex="1">
+          <mxGeometry height="40" width="120" x="129" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gestionar Productos" vertex="1">
+          <mxGeometry height="40" width="120" x="129" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registrar Cliente" vertex="1">
+          <mxGeometry height="40" width="120" x="279" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Consultar Cliente" vertex="1">
+          <mxGeometry height="40" width="120" x="279" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registrar Solicitud" vertex="1">
+          <mxGeometry height="40" width="120" x="429" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Evaluar Soliciitud" vertex="1">
+          <mxGeometry height="40" width="120" x="429" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Consultar Estado" vertex="1">
+          <mxGeometry height="40" width="120" x="429" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Auditoria" vertex="1">
+          <mxGeometry height="40" width="120" x="579" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reportes" vertex="1">
+          <mxGeometry height="40" width="120" x="579" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Monitoreo" vertex="1">
+          <mxGeometry height="40" width="120" x="579" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="LceUxhWpberIF7hiUg2J">
+    <mxGraphModel dx="1412" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-3" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MyftFgST3W6Lhs-IXvAv-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dirección Tecnología" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-14" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MyftFgST3W6Lhs-IXvAv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-15" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MyftFgST3W6Lhs-IXvAv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-16" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MyftFgST3W6Lhs-IXvAv-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="220" />
+              <mxPoint x="190" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-17" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MyftFgST3W6Lhs-IXvAv-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="220" />
+              <mxPoint x="650" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Plataforma de Solicitud y Aprobación de Créditos" vertex="1">
+          <mxGeometry height="60" width="156" x="336" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-19" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MyftFgST3W6Lhs-IXvAv-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Area Comercial" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-21" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MyftFgST3W6Lhs-IXvAv-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Area Riesgos" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-23" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MyftFgST3W6Lhs-IXvAv-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cliente" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-25" edge="1" parent="1" source="MyftFgST3W6Lhs-IXvAv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MyftFgST3W6Lhs-IXvAv-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Auditoria" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Captacion de Clientes" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Evaluacion de Solicitudes" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Solicitar y consultar credito" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MyftFgST3W6Lhs-IXvAv-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Trazabilidad" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
