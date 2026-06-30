@@ -196,6 +196,18 @@ El siguiente diagrama modela el proceso de negocio de originación y aprobación
 
 ---
 
+## Business Footprint
+
+El siguiente diagrama muestra la trazabilidad entre los objetivos estratégicos, las capacidades del negocio y los procesos que soportan la Plataforma de Solicitud y Aprobación de Créditos.
+
+![Business Footprint](Diagrams/business-footprint.png)
+
+| Atributo | Valor |
+|-----------|-------|
+| Tipo | Business Footprint |
+| Fase TOGAF | Phase B - Business Architecture |
+| Objetivo | Relacionar la estrategia del negocio con las capacidades y procesos que implementan la solución. |
+
 # 10. Servicios de Negocio
 
 | Servicio            | Consumidor      |
