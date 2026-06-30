@@ -217,22 +217,6 @@ Este repositorio está dirigido a:
 
 ---
 
-# Estado del Proyecto
-
-| Elemento                    | Estado          |
-| --------------------------- | --------------- |
-| Gobierno de Arquitectura    | En construcción |
-| Preliminary Phase           | Pendiente       |
-| Architecture Vision         | Pendiente       |
-| Business Architecture       | Pendiente       |
-| Data Architecture           | Pendiente       |
-| Application Architecture    | Pendiente       |
-| Technology Architecture     | Pendiente       |
-| Architecture Decisions      | Pendiente       |
-| AWS Well-Architected Review | Pendiente       |
-
----
-
 # Licencia
 
 Este repositorio tiene fines académicos y de demostración de capacidades en Arquitectura Empresarial y Arquitectura de Solución, basado en buenas prácticas y estándares reconocidos por la industria.
